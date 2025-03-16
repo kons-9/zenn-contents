@@ -1,0 +1,8 @@
+title: "How to make a riscv processor"
+summary: "This is a tutorial on how to make a riscv processor"
+topics: ["riscv", "processor", "cpu"]
+published: false
+price: 0
+chapters:
+  - example1
+
